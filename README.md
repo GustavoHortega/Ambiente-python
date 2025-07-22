@@ -1,1 +1,1 @@
-Repositório com alguns exercícios e trabalhos de iniciação na linguagem Python.
+Repositório com alguns exercícios e trabalhos da faculdade de iniciação na linguagem Python.
